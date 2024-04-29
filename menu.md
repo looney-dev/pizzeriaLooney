@@ -45,6 +45,8 @@
 
 ## Desery
 
+<img src = "img/mink-mingle-LGNxQzYmeUk-unsplash.jpg" width = 300>
+
 1. **Domowa Panna Cotta z szafranem i musem malinowym** (180g) - 18,99
 2. **Tiramisu** (170g) - 22,99
 3. **Sernik z Ricottą i Grana Padano** (160g) - 24,99
