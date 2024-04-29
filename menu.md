@@ -4,6 +4,8 @@
 
 ## *Na dobry początek.*
 
+<img src = "img/paula-berto-WLbD34w3kRQ-unsplash.jpg" width = 300>
+
 1. **Krem z pomidorów** (300g) - 19,90
 2. **Oliwki w marynacie** (100g) - 12,99
 3. **Deska wedlin i serów** (370g) - 47,90
