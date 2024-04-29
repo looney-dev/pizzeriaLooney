@@ -21,6 +21,11 @@ e-mail: szef@looney.sp
 **Craig Tucker**  
 e-mail: craig.t@looney.sp
 
+<img src = "img/IsaacMoishaBroflovski.png" height = 100>
+
+**IsaacMoishaBroflovski**  
+email: isaacmb@looney.sp
+
 ## Dostawca
 
 <img src = "img/TimmyBurch.png" height = 100>
