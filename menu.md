@@ -31,6 +31,24 @@
 | 2. | **Carciofi e Bufala** (ser Mozzarella, karczochy, szpinak, oliwa czosnkowa, orzechy włoskie, pesto z pietruszki, pomidory suszone, rukola, koperek) | | 42,99 | 47,99 | 52,99 |
 | 3. | **Funghi di bosco** (sos śmietanowy, ser Grana Padano, grzyby leśne, ser Mozzarella, szynka Prosciutto, szczypiorek) | | 44,99 | 49,99 | 54,99 |
 
+## Włoskie pizze wegańskie
+
+### *Wegańskie pizze to doskonałe połączenia roślinnych dodatków z wyjątkowym, chrupiącym ciastem.*
+
+| Lp. | Nazwa | Rozmiar: | 30cm | 50cm | 60cm |
+|-----|-------|----------|------|------|------|
+| 1. | **Verdure Miste** (sos z włoskich pomidorów, bakłażan z czosnkiem, oliwki, cebula, kapary, orzeszki pinii, bazylia) | | 40,99 | 45,99 | 51,99 |
+| 2. | **Funghi Misti** (sos z włoskich pomidorów, miks grzybów leśnych, rukola, orzechy włoskie, krem balsamiczny o smaku orzechowo-gruszkowym) | | 39,99 | 44,99 | 49,99 |
+
+## Sałatki
+
+### *Mistrzowskie przepisy doskonałe w zestawie z pizzą.*
+
+| Lp. | Nazwa | Porcja: | 250g | 360g |
+|-----|-------|---------|------|------|
+| 1. | **Insalata dalla Grecia** (ser feta, miks sałat, sos winegret, pomidorki koktajlowe, zielony ogórek, oliwki zielone, czerwona cebula, bazylia, rukola) | | 32,99 | 37,99 |
+| 1. | **Insalata Terra e Mare** (miks sałat, pomarańcza, łosoś wędzony na zimno, ser Mozzarella, sos imbirowo - musztardowy z mango, liście mięty, szczypiorek, czarny sezam) | | 34,99 | 39,99 |
+
 ## Makarony
 
 ### *Makarony z samego serca Włoch bazujące na oryginalnych włoskich składnikach.*
