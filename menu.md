@@ -35,6 +35,8 @@
 
 ### *Makarony z samego serca Włoch bazujące na oryginalnych włoskich składnikach.*
 
+<img src = "img/christine-sandu-Nx3OCfnRit8-unsplash.jpg" width = 300>
+
 |Lp.|Nazwa |Porcja: |500g |600g |
 |---|------|--------|-----|-----|
 | 1. | **Lasagna della Mamma** (sos z włoskich pomidorów, mielone mięso wieprzowe, makaron lasagne, czosnek, ser Mozzarella, sos beszamelowy, ser Grana Padano, bazylia) | | 39,99 | 44,99 |
