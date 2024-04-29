@@ -6,7 +6,7 @@
 
 <img src = "img/nik-owens-40OJLYVWeeM-unsplash.jpg" width = 300>
 
-|Lp.|Pizza |Rozmiar: |30cm |50cm |60cm |
+|Lp.|Nazwa |Rozmiar: |30cm |50cm |60cm |
 |---|------|---------|------|------|------|
 | 1. | **Capricciosa** (sos z włoskich pomidorów, ser Mozarella, pieczarki, karczochy, szynka Prosciutto, czarne oliwki) | | 41,99 | 46,99 | 51,99 |
 | 2. | **Prosciutto e Salame** (sos z włoskich pomidorów, ser Mozzarella, pieczarki, szynka Prosciutto, włoskie Salami) | | 41,99 | 46,99 | 51,99 |
@@ -25,8 +25,18 @@
 
 <img src = "img/sam-moghadam-khamseh-t9VG0wr-cUY-unsplash.jpg" width = 300>
 
-|Lp.|Pizza |Rozmiar: |30cm |50cm |60cm |
+|Lp.|Nazwa |Rozmiar: |30cm |50cm |60cm |
 |---|------|---------|------|------|------|
 | 1. | **Tartufo** (ser Mozzarella, pieczarki, szynka Prosciutto, krem truflowy) | | 43,99 | 48,99 | 52,99 |
 | 2. | **Carciofi e Bufala** (ser Mozzarella, karczochy, szpinak, oliwa czosnkowa, orzechy włoskie, pesto z pietruszki, pomidory suszone, rukola, koperek) | | 42,99 | 47,99 | 52,99 |
 | 3. | **Funghi di bosco** (sos śmietanowy, ser Grana Padano, grzyby leśne, ser Mozzarella, szynka Prosciutto, szczypiorek) | | 44,99 | 49,99 | 54,99 |
+
+## Makarony
+
+### *Makarony z samego serca Włoch bazujące na oryginalnych włoskich składnikach.*
+
+|Lp.|Nazwa |Porcja: |500g |600g |
+|---|------|--------|-----|-----|
+| 1. | **Lasagna della Mamma** (sos z włoskich pomidorów, mielone mięso wieprzowe, makaron lasagne, czosnek, ser Mozzarella, sos beszamelowy, ser Grana Padano, bazylia) | | 39,99 | 44,99 |
+| 2. | **Ravioli Spinaci al Burro** (ravioli ze szpinakiem, Ricottą i Grana Padano, maślany sos na bazie białego wina z nutą chrzanu, pomidory koktajlowe, zielony groszek, mięta, koperek.) | | 46,99 | 51,99 |
+| 3. | **Spaghetti Rossi** (makaron spaghetti, kiełbasa Nduja, Pancetta, włoskie pomidory, ser Stracciatella, czerwona cebula z miodem, czosnek, groszek cukrowy) | | 39,99 | 44,99 |
