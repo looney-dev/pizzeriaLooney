@@ -1,5 +1,14 @@
 # Menu
 
+# Przystawki
+
+## *Na dobry początek.*
+
+1. **Krem z pomidorów** (300g) - 19,90
+2. **Oliwki w marynacie** (100g) - 12,99
+3. **Deska wedlin i serów** (370g) - 47,90
+4. **Gorąca Focaccia** (100g) - 13,50
+
 ## Włoska pizza klasyczna
 
 ### *Uwielbiane na całym świecie włoskie klasyki.*
