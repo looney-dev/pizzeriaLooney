@@ -1,2 +1,2 @@
 # pizzeriaLooney
-Ten plik nazleży do gałęzi vege.
+To jest strona naszej pizzerii.
