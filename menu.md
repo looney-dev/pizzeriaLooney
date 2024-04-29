@@ -42,3 +42,9 @@
 | 1. | **Lasagna della Mamma** (sos z włoskich pomidorów, mielone mięso wieprzowe, makaron lasagne, czosnek, ser Mozzarella, sos beszamelowy, ser Grana Padano, bazylia) | | 39,99 | 44,99 |
 | 2. | **Ravioli Spinaci al Burro** (ravioli ze szpinakiem, Ricottą i Grana Padano, maślany sos na bazie białego wina z nutą chrzanu, pomidory koktajlowe, zielony groszek, mięta, koperek.) | | 46,99 | 51,99 |
 | 3. | **Spaghetti Rossi** (makaron spaghetti, kiełbasa Nduja, Pancetta, włoskie pomidory, ser Stracciatella, czerwona cebula z miodem, czosnek, groszek cukrowy) | | 39,99 | 44,99 |
+
+## Desery
+
+1. **Domowa Panna Cotta z szafranem i musem malinowym** (180g) - 18,99
+2. **Tiramisu** (170g) - 22,99
+3. **Sernik z Ricottą i Grana Padano** (160g) - 24,99
