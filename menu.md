@@ -35,6 +35,8 @@
 
 ### *Wegańskie pizze to doskonałe połączenia roślinnych dodatków z wyjątkowym, chrupiącym ciastem.*
 
+<img src = "img/brenan-greene-HPZs4EXRFSU-unsplash.jpg" width = 300>
+
 | Lp. | Nazwa | Rozmiar: | 30cm | 50cm | 60cm |
 |-----|-------|----------|------|------|------|
 | 1. | **Verdure Miste** (sos z włoskich pomidorów, bakłażan z czosnkiem, oliwki, cebula, kapary, orzeszki pinii, bazylia) | | 40,99 | 45,99 | 51,99 |
@@ -43,6 +45,8 @@
 ## Sałatki
 
 ### *Mistrzowskie przepisy doskonałe w zestawie z pizzą.*
+
+<img src = "img/jasmin-schreiber-V2Kw-YC7Cls-unsplash.jpg" width = 300>
 
 | Lp. | Nazwa | Porcja: | 250g | 360g |
 |-----|-------|---------|------|------|
