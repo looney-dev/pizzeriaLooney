@@ -2,7 +2,7 @@
 
 # Przystawki
 
-## *Na dobry początek.*
+### *Na dobry początek.*
 
 <img src = "img/paula-berto-WLbD34w3kRQ-unsplash.jpg" width = 300>
 
