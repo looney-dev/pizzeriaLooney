@@ -34,3 +34,5 @@ e-mail: timmy.b@looney.sp
 
 **Wendy Testaburger**  
 e-mail: wendy.t@looney.sp
+
+Nasze próby z poziomu Windows
