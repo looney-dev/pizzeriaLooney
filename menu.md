@@ -50,3 +50,15 @@
 1. **Domowa Panna Cotta z szafranem i musem malinowym** (180g) - 18,99
 2. **Tiramisu** (170g) - 22,99
 3. **Sernik z Ricottą i Grana Padano** (160g) - 24,99
+
+## Kawy
+
+### *Przy włoskiej kawie rozmowy smakują lepiej*
+
+| Lp. | Nazwa | Pojemność: | 150ml | 300g |
+|-----|-------|------------|-------|------|
+| 1.  | **Kawa Americano** | | 14,00 | 18,00 |
+| 2.  | **Cappuccino** | | 14,00 | 18,00 |
+| 3.  | **Flat White** | | 14,00 | 18,00 |
+| 4.  | **Caffé Lattee** | | 14,00 | 18,00 |
+| 5.  | **Caffé Frutteto** | | 16,00 | 20,00 |
