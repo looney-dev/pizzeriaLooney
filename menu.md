@@ -55,6 +55,8 @@
 
 ### *Przy włoskiej kawie rozmowy smakują lepiej*
 
+<img src = "img/fahmi-fakhrudin-nzyzAUsbV0M-unsplash.jpg" width = 300>
+
 | Lp. | Nazwa | Pojemność: | 150ml | 300g |
 |-----|-------|------------|-------|------|
 | 1.  | **Kawa Americano** | | 14,00 | 18,00 |
