@@ -24,7 +24,12 @@ e-mail: craig.t@looney.sp
 <img src = "img/IsaacMoishaBroflovski.png" height = 100>
 
 **IsaacMoishaBroflovski**  
-email: isaacmb@looney.sp
+e-mail: isaacmb@looney.sp
+
+<img src = "img/KyleBroflovski.png" height = 100>
+
+**KyleBroflovski**  
+e-mail: kyleb@looney.sp
 
 ## Dostawca
 
