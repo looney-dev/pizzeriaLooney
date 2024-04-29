@@ -4,7 +4,7 @@
 
 ### *Uwielbiane na całym świecie włoskie klasyki.*
 
-<img src = "img/nik-owens-40OJLYVWeeM-unsplash.jpg" width=300>
+<img src = "img/nik-owens-40OJLYVWeeM-unsplash.jpg" width = 300>
 
 |Lp.|Pizza |Rozmiar: |30cm |50cm |60cm |
 |---|------|---------|------|------|------|
@@ -22,6 +22,8 @@
 ## Włoska pizza bianca
 
 ### *Pizze białe, charakterystyczne i popularne we Włoszech, bazujące na sosach śmietanowych, oliwie i innych włoskich dodatkach.*
+
+<img src = "img/sam-moghadam-khamseh-t9VG0wr-cUY-unsplash.jpg" width = 300>
 
 |Lp.|Pizza |Rozmiar: |30cm |50cm |60cm |
 |---|------|---------|------|------|------|
