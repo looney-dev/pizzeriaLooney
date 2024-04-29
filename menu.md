@@ -86,7 +86,7 @@
 
 ## Kawy
 
-### *Przy włoskiej kawie rozmowy smakują lepiej*
+### *Przy włoskiej kawie rozmowy smakują lepiej.*
 
 <img src = "img/fahmi-fakhrudin-nzyzAUsbV0M-unsplash.jpg" width = 300>
 
